@@ -4,6 +4,8 @@ import { initializeApp } from "firebase/app";
 const firebaseConfig = {
   apiKey: "AIzaSyDkEsKIXL-Yn8_S4okm8tzoXWpr8eCGfoY",
   authDomain: "quiz-app-react-firebase-dev.firebaseapp.com",
+  databaseURL:
+    "https://quiz-app-react-firebase-dev-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "quiz-app-react-firebase-dev",
   storageBucket: "quiz-app-react-firebase-dev.appspot.com",
   messagingSenderId: "790050498894",
